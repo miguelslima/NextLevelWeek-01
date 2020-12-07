@@ -132,5 +132,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/vitor-serrano/" target="_blank">Vitor Serrano</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/miguelslima1986/" target="_blank">Miguel Lima</a>
 </h4>
